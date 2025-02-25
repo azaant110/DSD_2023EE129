@@ -1,4 +1,4 @@
-# Seven Segment (lab %)
+# Seven Segment (lab 5)
 
 ## Lab Details  
 **Name:** Azaan Abbas Tirmazi 
