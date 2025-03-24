@@ -1,4 +1,4 @@
-# DSD Lab 6  
+# DSD Lab 7  
 
 ## Student Information  
 **Name:** Azaan Tirmazi
