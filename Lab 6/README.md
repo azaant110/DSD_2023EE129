@@ -1,7 +1,7 @@
 # DSD Lab 6  
 
 ## Student Information  
-**Name:** [Azaan Tirmazi (2023-EE-129)]  
+**Name:** Azaan Tirmazi (2023-EE-129)  
 
 ## Project Files  
 
